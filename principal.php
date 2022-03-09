@@ -5,10 +5,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>KGB</title>
-        <!-- importer le fichier de style -->
-        <link rel="stylesheet" href="style.css" media="screen" type="text/css" />
+        <link rel="icon" href="image/favicon.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="pstyle.css" media="screen" type="text/css" />
     </head>
-    <body style='background:#fff;'>
+    <body>
         <div id="content">
             <!-- tester si l'utilisateur est connecté -->
             <?php

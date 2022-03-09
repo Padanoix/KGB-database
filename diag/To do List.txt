@@ -1,0 +1,11 @@
+Site Gestion donnée KGB
+
+1) Diagramme ULM BDD                                           ==> OK
+2) User Case Diag                                              ==> OK
+3) Maquettage Site ( listing mission + Page Acces mission )
+4) Réalisation BDD
+4.5) Remplissage BDD
+5) Réalisation Html CSS
+6) Liaison Site BDD
+7) Role Admin et back-end formulaire
+
